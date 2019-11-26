@@ -505,6 +505,12 @@
 		"defname": "Brewery"
 	},
 	{
+		"abr": "bricks",
+		"price": -10,
+		"category": "Stone blocks",
+		"defname": "RFFBricks"
+	},
+	{
 		"abr": "butchertable",
 		"price": -10,
 		"category": "Production",
@@ -661,6 +667,12 @@
 		"defname": "SpellOf_Recall"
 	},
 	{
+		"abr": "clay",
+		"price": -10,
+		"category": "Raw resources",
+		"defname": "RFFClay"
+	},
+	{
 		"abr": "cloakofsupremacy",
 		"price": -10,
 		"category": "Magic equipment",
@@ -757,6 +769,12 @@
 		"defname": "ComponentIndustrial"
 	},
 	{
+		"abr": "compostbarrel",
+		"price": -10,
+		"category": "Production",
+		"defname": "CompostBarrel"
+	},
+	{
 		"abr": "corn",
 		"price": -10,
 		"category": "Vegetarian",
@@ -785,6 +803,12 @@
 		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_CowboyHat"
+	},
+	{
+		"abr": "crushedrocks",
+		"price": -10,
+		"category": "Raw resources",
+		"defname": "CrushedRocks"
 	},
 	{
 		"abr": "darkrobe",
@@ -1105,6 +1129,12 @@
 		"defname": "FermentingBarrel"
 	},
 	{
+		"abr": "fertilizer",
+		"price": -10,
+		"category": "Raw resources",
+		"defname": "Fertilizer"
+	},
+	{
 		"abr": "fighterskill:burningfury",
 		"price": -10,
 		"category": "Scrolls",
@@ -1369,6 +1399,42 @@
 		"defname": "Bear_Grizzly"
 	},
 	{
+		"abr": "guestbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedGuest"
+	},
+	{
+		"abr": "guestbedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollGuest"
+	},
+	{
+		"abr": "guestdoublebed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "DoubleBedGuest"
+	},
+	{
+		"abr": "guestdoublebedroll",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BedrollDoubleGuest"
+	},
+	{
+		"abr": "guesthospitalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "HospitalBedGuest"
+	},
+	{
+		"abr": "guestroyalbed",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RoyalBedGuest"
+	},
+	{
 		"abr": "handtailorbench",
 		"price": -10,
 		"category": "Production",
@@ -1415,6 +1481,12 @@
 		"price": -10,
 		"category": "Leathers",
 		"defname": "Leather_Heavy"
+	},
+	{
+		"abr": "heavysandbags",
+		"price": -10,
+		"category": "Security",
+		"defname": "HeavySandbags"
 	},
 	{
 		"abr": "heavysmg",
@@ -2029,6 +2101,12 @@
 		"defname": "Megaspider"
 	},
 	{
+		"abr": "methadone",
+		"price": -10,
+		"category": "Drugs",
+		"defname": "Methadone"
+	},
+	{
 		"abr": "milk",
 		"price": -10,
 		"category": "Animal products",
@@ -2329,6 +2407,18 @@
 		"defname": "Pila"
 	},
 	{
+		"abr": "pileofdirt",
+		"price": -10,
+		"category": "Raw resources",
+		"defname": "PileofDirt"
+	},
+	{
+		"abr": "pileofsand",
+		"price": -10,
+		"category": "Raw resources",
+		"defname": "SandPile"
+	},
+	{
 		"abr": "plainleather",
 		"price": -10,
 		"category": "Leathers",
@@ -2503,6 +2593,12 @@
 		"defname": "Meat_Rat"
 	},
 	{
+		"abr": "rawcompost",
+		"price": -10,
+		"category": "Raw resources",
+		"defname": "RawCompost"
+	},
+	{
 		"abr": "rawfungus",
 		"price": -10,
 		"category": "Vegetarian",
@@ -2587,10 +2683,22 @@
 		"defname": "ArchMageRobe"
 	},
 	{
+		"abr": "rockmill",
+		"price": -10,
+		"category": "Production",
+		"defname": "RockMill"
+	},
+	{
 		"abr": "royalbed",
 		"price": -10,
 		"category": "Furniture",
 		"defname": "RoyalBed"
+	},
+	{
+		"abr": "sandbags",
+		"price": -10,
+		"category": "Security",
+		"defname": "Sandbags"
 	},
 	{
 		"abr": "sandstoneblocks",
@@ -3299,115 +3407,7 @@
 		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_YorkshireTerrier"
-	},
-	{
-		"abr": "bricks",
-		"price": -10,
-		"category": "Stone blocks",
-		"defname": "RFFBricks"
-	},
-	{
-		"abr": "clay",
-		"price": -10,
-		"category": "Raw resources",
-		"defname": "RFFClay"
-	},
-	{
-		"abr": "compostbarrel",
-		"price": -10,
-		"category": "Production",
-		"defname": "CompostBarrel"
-	},
-	{
-		"abr": "crushedrocks",
-		"price": -10,
-		"category": "Raw resources",
-		"defname": "CrushedRocks"
-	},
-	{
-		"abr": "fertilizer",
-		"price": -10,
-		"category": "Raw resources",
-		"defname": "Fertilizer"
-	},
-	{
-		"abr": "heavysandbags",
-		"price": -10,
-		"category": "Security",
-		"defname": "HeavySandbags"
-	},
-	{
-		"abr": "methadone",
-		"price": -10,
-		"category": "Drugs",
-		"defname": "Methadone"
-	},
-	{
-		"abr": "pileofdirt",
-		"price": -10,
-		"category": "Raw resources",
-		"defname": "PileofDirt"
-	},
-	{
-		"abr": "pileofsand",
-		"price": -10,
-		"category": "Raw resources",
-		"defname": "SandPile"
-	},
-	{
-		"abr": "rawcompost",
-		"price": -10,
-		"category": "Raw resources",
-		"defname": "RawCompost"
-	},
-	{
-		"abr": "rockmill",
-		"price": -10,
-		"category": "Production",
-		"defname": "RockMill"
-	},
-	{
-		"abr": "sandbags",
-		"price": -10,
-		"category": "Security",
-		"defname": "Sandbags"
-	},
-	{
-		"abr": "guestbed",
-		"price": 155,
-		"category": "Furniture",
-		"defname": "BedGuest"
-	},
-	{
-		"abr": "guestbedroll",
-		"price": 137,
-		"category": "Furniture",
-		"defname": "BedrollGuest"
-	},
-	{
-		"abr": "guestdoublebed",
-		"price": 292,
-		"category": "Furniture",
-		"defname": "DoubleBedGuest"
-	},
-	{
-		"abr": "guestdoublebedroll",
-		"price": 290,
-		"category": "Furniture",
-		"defname": "BedrollDoubleGuest"
-	},
-	{
-		"abr": "guesthospitalbed",
-		"price": 667,
-		"category": "Furniture",
-		"defname": "HospitalBedGuest"
-	},
-	{
-		"abr": "guestroyalbed",
-		"price": 1467,
-		"category": "Furniture",
-		"defname": "RoyalBedGuest"
 	}
 	],
-	"total": 574
+	"total": 568
 }
