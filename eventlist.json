@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 2600,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
@@ -82,12 +82,12 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 8500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 5700,
 		"karmatype": "Doom"
 	},
 	{
@@ -102,7 +102,7 @@
 	},
 	{
 		"abr": "blight",
-		"price": 700,
+		"price": 1200,
 		"karmatype": "Bad"
 	},
 	{
@@ -118,7 +118,7 @@
 	{
 		"abr": "resourcepodcrash",
 		"price": 300,
-		"karmatype": "Bad"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "transportpodcrash",
@@ -142,7 +142,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 350,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -157,7 +157,7 @@
 	},
 	{
 		"abr": "psychicsoothe",
-		"price": 250,
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -172,12 +172,12 @@
 	},
 	{
 		"abr": "farmanimals",
-		"price": 400,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "wildman",
-		"price": 300,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -206,11 +206,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "party",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "alphabeavers",
 		"price": 600,
 		"karmatype": "Bad"
@@ -222,7 +217,7 @@
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 2400,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -237,33 +232,33 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
+		"price": 5000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
+		"price": 3200,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 3200,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "infestation",
-		"price": 1700,
-		"karmatype": "Bad"
+		"price": 3000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "manhunterpack",
-		"price": 1500,
-		"karmatype": "Bad"
+		"price": 2500,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "predators",
@@ -272,17 +267,17 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1000,
+		"price": 1800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "disease",
-		"price": 1000,
+		"price": 1800,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 2500,
 		"karmatype": "Good"
 	},
 	{
@@ -297,17 +292,17 @@
 	},
 	{
 		"abr": "trait",
-		"price": 1500,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "removetrait",
-		"price": 1500,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "genderswap",
-		"price": 600,
+		"price": 100,
 		"karmatype": "Neutral"
 	},
 	{
@@ -341,5 +336,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 68
+	"total": 67
 }
